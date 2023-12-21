@@ -14,7 +14,7 @@ README para o Script de Atualização e Manutenção do Debian
 
 :rocket: Uso
  - Execute o script com permissões de administrador:
- - sudo ./script_name.sh
+ - sudo ./AutoFixAptKeys.sh
 
 :warning: Notas
  - Recomenda-se executar este script regularmente para manter a segurança e a eficiência do sistema.
