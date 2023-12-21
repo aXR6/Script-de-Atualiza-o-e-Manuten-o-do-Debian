@@ -3,6 +3,14 @@ README para o Script de Atualização e Manutenção do Debian
 :page_facing_up: Descrição
  - Este script automatiza o processo de atualização e manutenção de sistemas Debian, garantindo que o sistema esteja sempre atualizado, seguro e otimizado.
 
+Linkedin: https://www.linkedin.com/in/thalles-canela/ <br>
+YouTube:  https://www.youtube.com/c/aXR6CyberSecurity <br>
+Facebook: https://www.facebook.com/axr6PenTest <br>
+Github:   https://github.com/ThallesCanela <br>
+Github:   https://github.com/aXR6 <br>
+Twitter:  https://twitter.com/Axr6S <br>
+Padim:    https://www.padrim.com.br/aXR6CyberSecurity <br>
+
 :sparkles: Funcionalidades
  - Atualização Automática da Lista de Pacotes: Atualiza a lista de pacotes para as últimas versões disponíveis.
  - Correção de Chaves Expiradas: Corrige automaticamente quaisquer chaves GPG expiradas durante a atualização.
